@@ -7,8 +7,11 @@
 - 知乎: [@鱼遇雨欲语与余](https://www.zhihu.com/people/wang-he-13-93)
 - Email: wanghe12@xiaomin.com
 
-<p align="center">
-<a href="https://twitter.com/seutao1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="seutao1" height="30" width="30" /></a>
-<a href="https://kaggle.com/shentao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shentao" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCC3O5kfihzAwpNvC_DzIohg/videos?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="seutao" height="30" width="30" /></a>
-</p>
+<a href="https://github.com/bettenW">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=chizhu&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/bettenW">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=chizhu&layout=compact" />
+</a>
