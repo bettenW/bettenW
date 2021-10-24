@@ -5,7 +5,7 @@
 
 ### My Social Media 💬
 - 知乎: [@鱼遇雨欲语与余](https://www.zhihu.com/people/wang-he-13-93)
-- Email: wanghe12@xiaomin.com
+- Email: wanghe12@xiaomi.com
 
 <a href="https://github.com/bettenW">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=bettenW&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
